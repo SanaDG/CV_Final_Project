@@ -1,4 +1,8 @@
 # CV_Final_Project
+
+#### Objective
+The objective of this project is to build a machine learning model that can detect the positions of chess pieces on a board from images. This involves training a Convolutional Neural Network (CNN) to classify the chess pieces based on their positions in the given images.
+
 ### About Dataset
 Dataset link: https://www.kaggle.com/datasets/koryakinp/chess-positions
 ### Context
